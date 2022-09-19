@@ -1,2 +1,10 @@
 https://github.com/didier-mycontrib/with-open-liberty (JEE Micro-profile App with openLiberty)
 https://github.com/didier-mycontrib/jee-spring-app-demo (exemple appliSring6 , ...)
+https://github.com/didier-tp/jee_web_juin2022 , partie "myWebApp" : exemple de securité JEE (sur servlet/jsp , ....) 
+                                                partie "tpJsf" , ...
+https://github.com/didier-tp/m2i_poe_ete2022 (sous partie tp/appliSpringBiblio ajax/REST_SpringMvc simple sans securité,
+                                              sous partie tp/appliSpring ajax/REST_SpringMvc avec securité  JWT
+                                              sous partie tp/appliSpringJavaWeb SpringMvc_jsp avec petite demo jenkins )   
+
+https://github.com/didier-mycontrib/design-patterns (sous partie    design_patterns-ext avec exemple appli SWING)
+https://github.com/didier-mycontrib/java-fx (exemple javaFx)         
