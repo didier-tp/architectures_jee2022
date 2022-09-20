@@ -7,4 +7,7 @@ https://github.com/didier-tp/m2i_poe_ete2022 (sous partie tp/appliSpringBiblio a
                                               sous partie tp/appliSpringJavaWeb SpringMvc_jsp avec petite demo jenkins )   
 
 https://github.com/didier-mycontrib/design-patterns (sous partie    design_patterns-ext avec exemple appli SWING)
-https://github.com/didier-mycontrib/java-fx (exemple javaFx)         
+https://github.com/didier-mycontrib/java-fx (exemple javaFx)   
+https://github.com/didier-mycontrib/with_android_studio (exemple basuque appli android )    
+https://github.com/didier-tp/jee_02_2021  (projet jeeApp en mode full-profile avec ejb remote, soap , JMS
+                                           et projet   jeeWpApp en mode web profile (sans ear) et avec ejb light entity/session, ...)
